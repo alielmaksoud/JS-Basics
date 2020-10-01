@@ -65,7 +65,7 @@ return parseFloat((weight /( height * height)).toFixed(2));
 }
 
 const createLanguagesArray = () => {
-
+return ["Html", "CSS", "Java", "PHP"];
 }
 
 const createNumbersArray = () => {
